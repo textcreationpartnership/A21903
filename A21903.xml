@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. The Queenes most excellent Maiestie, vnderstanding that the infection of the plague in the cities of London and Westminster doth yet continue,...so as with safetie the next Michaelmas terme cannot be kept as was accustomed ..</title>
+            <title>Proclamations. 1593-09-24</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1593</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21903</idno>
+            <idno type="STC">STC 8234</idno>
+            <idno type="STC">ESTC S115491</idno>
+            <idno type="EEBO-CITATION">99850710</idno>
+            <idno type="PROQUEST">99850710</idno>
+            <idno type="VID">15934</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15934)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:91)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. The Queenes most excellent Maiestie, vnderstanding that the infection of the plague in the cities of London and Westminster doth yet continue,...so as with safetie the next Michaelmas terme cannot be kept as was accustomed ..</title>
+                  <title>Proclamations. 1593-09-24</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1593]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and publication date from STC.</note>
+                  <note>Adjourning part of Michaelmas term to St. Albans.--STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:15934:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 11 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes moſt excellent Maieſtie, vnderſtanding that the infection of the plague in the cities of London and Weſt<g ref="char:EOLhyphen"/>minſter doth yet continue, ſo as with ſafetie the next Michaelmas Terme cannot be kept as was accuſtomed in the ci<g ref="char:EOLhyphen"/>tie of Weſtminſter: and therefore doubting that if the ſaid Terme of S. Michael now next comming ſhould be kept at the ſaid citie of Weſtminſter, it can not be but dangerous to ſuch her louing ſubiects, which for their lawfull cauſes ſhould make their neceſſary repaire to the ſaid cities: Therefore her Maieſtie conſidering the great inconueniences that may thereof enſue, by the aduice of her Highneſſe Cou<g ref="char:cmbAbbrStroke">̄</g>cell doth finde it very expedient that adiournment ſhould be made of the ſaid Terme, in forme following, That is to ſay, in or from the firſt Returne thereof, commonly called <hi>Octabis Mi<g ref="char:EOLhyphen"/>chaelis,</hi> vnto the Returne, commonly called <hi>Menſe Michaelis,</hi> then next enſuing, when the reſt of the ſaid Terme ſhall be continued and kept in maner and forme hereafter ſpecified. For which purpoſe, eſpeciall choiſe is made of the Towne of <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> Albans in the countie of Hartford: at which place her Highneſſe pleaſure is, that the reſidue of the ſaid Terme ſhall be kept as hereafter is ex<g ref="char:EOLhyphen"/>ceſſed: and therefore doth declare, and hereby ſignifie her will and pleaſure, that writs of adiournment ſhall be directed to the Iuſtices of either Benches, &amp; to the Iudges of all other her Maieſties courts, to who<g ref="char:cmbAbbrStroke">̄</g> like writs haue bene vſually directed, giuing them authoritie to adiourne the <gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>e Terme from Weſtminſter aforeſaid, vnto the ſaid towne of S. Albans, vnto &amp; in the Returne &amp; day called <hi>Menſe Michaelis,</hi> from or in which <hi>
+                  <gap reason="illegible: in gutter" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>Menſe Michaelis,</hi> the reſidue of the ſaid Terme ſhalbe adiourned to and in the Returne and d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y called <hi>Craſtino Animarum</hi> next enſuing, in ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> and forme as by the ſaid writs of adiournment ſhalbe directed. And alſo that all matters, cauſes, and ſutes betweene partie and partie in her <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>neſſe courts of Chancerie, Star-chamber, Eſchequer, the courts of Wards and Liueries, the Duchie of Lancaſter, and Requeſts, ſhall haue <gap reason="illegible: in gutter" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>tinuance, and the parties ſhall haue day in or from the ſaid <hi>Octabis Michaelis</hi> vnto and in the ſaid day of <hi>Menſe Michaelis,</hi> and from thence ſhall haue continuance, and the parties ſhall haue day in and to the ſaid Returne of <hi>Craſtino Animarum</hi> as is aforeſaid, willing and commanding them <unclear>and</unclear> euery of them to whom it doth apperteine, to keepe and obſerue their apparances and aſſemblies in a land euery her ſaid courts to be holden <unclear>as is</unclear> aforeſaid, in the ſaid <hi>Menſe Michaelis,</hi> and from thence to the ſaid Returne called <hi>Craſtino Animarum,</hi> as is aforeſaid, in like maner, forme and <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ondition as they ſhould or ought to haue done, if the ſaid Terme and courts had bene holden and kept at Weſtminſter, and as they and euery of <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wil anſwere at their perils. Prouided alwayes, and her Maieſties pleaſure and commandement is, that all perſons that are or ought to <gap reason="illegible: in gutter" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap>ie any Bonds, Recognizances, or other things into her Maieſties Eſchequer: and alſo all Collectours, Receiuers, Shirifs, and other Ac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>untants, and all other perſons that ſhould or ought to account or pay any ſumme or ſummes of money in any of her Maieſties courts of Eſche<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uer, court of Wards and Liueries, or of her Duchie of Lancaſter, or any of them, or enter into any account in any of the ſaid courts, ſhal repa<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re into the ſaid citie of Weſtminſter, vntill full Terme ſhalbe kept and holden at ſome other place, and after full Terme ſo begun and holden, then <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch towne or place where the Terme ſhall be kept and holden, where her Highneſſe hath appointed the officers and miniſters of the ſame, as <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that purpoſe her Maieſtie hath thought expedient, and there to certifie, pay, and do in euery behalfe, as though no ſuch Proclamation of ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment had bene had or made. And her Highneſſe further pleaſure and commandement is, that all Shirifs ſhall returne their writs and pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> againſt all ſuch Accountants and Debters at the dayes therein appointed: and if any perſon or perſons who ought to account or pay any <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umme or ſummes of money to her Maieſtie, in any the courts and places aforeſaid, do make default therein, that then her Highneſſe writs &amp; pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>t ſhall be awarded and ſent forth againſt euery ſuch perſon and perſons, and the ſame to be duely and orderly ſerued &amp; returned by the Shirifs <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd officers thereunto appointed, in ſuch like maner and forme as the ſame ſhould haue bene, if this preſent Proclamation had not bene made. <unclear>And</unclear> if any Shiriffe, or any other officer ſhall make default, or be negligent in ſeruing, executing, or returning of any the writs and proceſſe afore<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id, that then euery ſuch Shiriffe and other officer ſhal incur ſuch paines &amp; penalties, as by the ſaid courts, or any of them ſhalbe taxed &amp; aſſeſſed. And further, her Maieſtie conſidering that if there ſhould happen to be any acceſſe and apparance at the ſaid towne of S. Albans, during the re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>e of the Terme, of ſuch as haue had the plague in their houſes, or haue bene themſelues infected therewith, there might enſue great perill and image to thoſe that haue as yet bene cleare thereof, &amp; ſo further inconuenience might grow thereby to the reſt of the Realme: Her Highneſſe for <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>auoyding thereof, doeth ſtraightly charge &amp; command that no ſuch perſon or perſons who haue bene ſo infected, or haue had the plague in their <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouſes, or haue bene in any houſe, at the time of their being in the ſame, infected with the plague at any time ſithence the xviii. day of September <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> paſt, of what eſtate or degree ſoeuer he or they be, ſhal repaire to the ſaid towne of S.Albans or other place whatſoeuer, to which any part of the <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Terme of S. Michael ſhalbe adiourned, during the reſidue of the ſaid Terme, except he or they ſhalbe commanded by ſpeciall Proceſſe, or other<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> haue ſpeciall commandement for his or their perſonall apparance. And yet neuer the leſſe, euery ſuch perſon or perſons ſo infected before his their repaire into the ſaid Towne, ſhall before he or they enter into any houſe within the Towne or place aforeſaid, openly notifie and declare by <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>me meſſage to the principall officer of the Court where he ſhould appeare, his or their ſtate touching his or their infection, with the cauſe for which he or they ſhall be called by Proceſſe or other commandement, or to ſuch perſon or perſons as ſhall be appointed by the L. Keeper of the great <unclear>Seale</unclear> of England, to haue regard thereunto: So as if the ſaid partie ſhall be ordered to come into the Towne or place aforeſayd, or into any the <unclear>Courts</unclear> there, the ſame ſhall after (during the ſpace of his or their abode there) beare and holde vp in his or their hande vpright to be ſeene, one red <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the length of one yard or more, vpon paine of her Maieſties diſpleaſure, and impriſonment of their bodies during her Highneſſe pleaſure. <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd further her Maieſtie ſtraightly chargeth and commandeth all Iuſtices of Peace of the ſaid Countie of Hartford, as well within Liberties as without dwelling within twelue miles of the ſaid Towne of S. Albans, and all Bayliffs, Conſtables, &amp; head officers of any Boroughes, townes, <gap reason="illegible: in gutter" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>lages, or hamlets within eight miles of the ſaid Towne of S. Albans, that they &amp; euery of them ſhall from and after the day of the proclaiming this Proclamation within the ſaid Countie, doe their beſt endeuours to make and ſet foorth ſuch good orders as (by the goodneſſe of God) may <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> moſt to the preſeruation of all places within the ſame circuite of eight miles from the infection of the plague, and for that purpoſe to aſſemble themſelues together weekely at ſome conuenient place in the ſaid Countie from the time of the publiſhing of this Proclamation, vntill the ende <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the reſidue of the ſaid Terme, as wel for the deuiſing as for the execution of ſuch good orders. And that the ſaid Iuſtices of Peace ſhal in the firſt <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay of the ſitting in the reſidue of the ſaid Terme, ſignifie and declare to the L. Keeper of the great Seale of England all that they, and the ſaide Conſtables and other the ſaid Officers ſhall then haue done in and about the premiſſes: And ſhall alſo from time to follow ſuch directions as <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey ſhall receiue from the ſaid L. Keeper and other of her Maieſties priuie Counſell being at that Towne of S. Albans, tending to the preſerua<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on of the places within the circuit aboue ſpecified from the ſaid infection of the plague: Not doubting but that aſwel the ſaid Iuſtices, as other the <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>feriour officers will carefully diſcharge their dueties in that behalfe, as they tender the continu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce of her Maieſties fauour, and will anſwere <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the contrary at their perils.</p>
+            <closer>
+               <dateline>Giuen at the Caſtle of Windſor <date>the xxiiii. day of September, in the xxxv. yeere of her Maieſties raigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
